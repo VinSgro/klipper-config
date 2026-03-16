@@ -25,7 +25,7 @@
             "runout_lane": null,
             "filament_status": "Prep",
             "filament_status_led": "#ffffff",
-            "status": "Tool Loading",
+            "status": "Ejecting",
             "dist_hub": 116.08,
             "td1_data": {},
             "endstops": "load,hub,tool_start"
