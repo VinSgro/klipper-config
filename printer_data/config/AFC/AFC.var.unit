@@ -41,7 +41,7 @@
             "map": "T0",
             "load": true,
             "prep": true,
-            "tool_loaded": true,
+            "tool_loaded": false,
             "loaded_to_hub": true,
             "material": "ASA",
             "density": 1.07,
@@ -53,9 +53,9 @@
             "weight": 15.344860198330958,
             "extruder_temp": 250,
             "runout_lane": "lane3",
-            "filament_status": "In Tool",
-            "filament_status_led": "#0000ff",
-            "status": "Error",
+            "filament_status": "Ready",
+            "filament_status_led": "#00cc00",
+            "status": "None",
             "dist_hub": 55.59,
             "td1_data": {},
             "endstops": "load,hub,tool_start"
@@ -122,13 +122,13 @@
         }
     },
     "system": {
-        "current_load": "lane2",
+        "current_load": null,
         "num_units": 1,
         "num_lanes": 4,
         "num_extruders": 1,
         "extruders": {
             "extruder": {
-                "lane_loaded": "lane2"
+                "lane_loaded": ""
             }
         },
         "bypass": {
