@@ -82,7 +82,7 @@
             "color": "#0000ff",
             "weight": 775.5833318041934,
             "extruder_temp": 220,
-            "runout_lane": "lane1",
+            "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "Loaded",
