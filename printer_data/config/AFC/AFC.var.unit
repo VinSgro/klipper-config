@@ -11,7 +11,7 @@
             "map": "T0",
             "load": true,
             "prep": true,
-            "tool_loaded": false,
+            "tool_loaded": true,
             "loaded_to_hub": false,
             "material": "",
             "density": 1.24,
@@ -25,7 +25,7 @@
             "runout_lane": null,
             "filament_status": "In Tool",
             "filament_status_led": "#0000ff",
-            "status": "None",
+            "status": "Tooled",
             "dist_hub": 125.14,
             "td1_data": {},
             "endstops": "load,hub,tool_start"
